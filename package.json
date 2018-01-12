@@ -1,0 +1,13 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build src/javascript/index.js --public-url ./"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
